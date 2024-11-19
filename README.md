@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# CS student @ Universidad Central de Venezuela
+## CS student @ Universidad Central de Venezuela
 
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning App development
