@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## CS student @ Universidad Central de Venezuela
+Hello 👋 My name is **Sergio Gómez**. I am from Central University of Venezuela 🇻🇪 studying Computer Science.
 
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning App development
