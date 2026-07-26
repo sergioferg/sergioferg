@@ -4,6 +4,8 @@
 
 I'm a Backend Developer based in Caracas, Venezuela, specializing in building high-performance, scalable APIs, and concurrent systems. I am currently in my 5th semester of Computer Science at Universidad Central de Venezuela (UCV) and actively compete in algorithmic programming (ICPC).
 
+Currently working and learning with Go (mostly) and Python.
+
 ---
 
 ### 🚀 What I'm Currently Working On
