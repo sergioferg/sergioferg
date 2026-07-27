@@ -12,7 +12,7 @@ Currently working and learning with Go (mostly) and Python.
 * **[Gochat](https://github.com/sergioferg/gochat):** A scalable real-time chatting platform. I'm leveraging **Go** for the backend, **RabbitMQ** for event-driven message handling, and deploying it all in **Docker** containers on **Azure**.
 * Continuously expanding my DevOps skills with cloud infrastructure and CI/CD pipelines.
 
-### 💻 Tech Stack
+### Tech Stack
 * **Languages:** Go, Python, C++, JavaScript, HTML/CSS
 * **Backend & APIs:** RESTful Architecture, JWT Auth, Webhooks, net/http
 * **Databases:** PostgreSQL, MySQL, SQLite, sqlc, goose
