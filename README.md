@@ -8,9 +8,9 @@ Currently working and learning with Go (mostly) and Python.
 
 ---
 
-### 🚀 What I'm Currently Working On
-* 💬 **[Gochat](https://github.com/sergioferg/gochat):** A scalable real-time chatting platform. I'm leveraging **Go** for the backend, **RabbitMQ** for event-driven message handling, and deploying it all in **Docker** containers on **Azure**.
-* 🧠 Continuously expanding my DevOps skills with cloud infrastructure and CI/CD pipelines.
+### What I'm Currently Working On
+* **[Gochat](https://github.com/sergioferg/gochat):** A scalable real-time chatting platform. I'm leveraging **Go** for the backend, **RabbitMQ** for event-driven message handling, and deploying it all in **Docker** containers on **Azure**.
+* Continuously expanding my DevOps skills with cloud infrastructure and CI/CD pipelines.
 
 ### 💻 Tech Stack
 * **Languages:** Go, Python, C++, JavaScript, HTML/CSS
@@ -18,9 +18,9 @@ Currently working and learning with Go (mostly) and Python.
 * **Databases:** PostgreSQL, MySQL, SQLite, sqlc, goose
 * **DevOps & Cloud:** Docker, RabbitMQ, Azure, Linux, Git
 
-### 🏆 Achievements
+### Achievements
 * **ICPC National Qualifier (2025):** Competed at the national level, solving advanced algorithmic and data structure challenges under strict time constraints.
 
-### 📫 Let's Connect
+### Let's Connect
 * **LinkedIn:** [linkedin.com/in/sergio-gomez-627914420](https://www.linkedin.com/in/sergio-gomez-627914420/)
 * **Email:** sergioferg.2003@gmail.com
