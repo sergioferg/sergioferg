@@ -13,7 +13,7 @@ Currently working and learning with Go (mostly) and Python.
 * Continuously expanding my DevOps skills with cloud infrastructure and CI/CD pipelines.
 
 ### Tech Stack
-* **Languages:** Go, Python, C++, JavaScript, HTML/CSS
+* **Languages:** Go, Python, C++, JavaScript, HTML/CSS, (Probably Rust in the future)
 * **Backend & APIs:** RESTful Architecture, JWT Auth, Webhooks, net/http
 * **Databases:** PostgreSQL, MySQL, SQLite, sqlc, goose
 * **DevOps & Cloud:** Docker, RabbitMQ, Azure, Linux, Git
@@ -22,5 +22,5 @@ Currently working and learning with Go (mostly) and Python.
 * **ICPC National Qualifier (2025):** Competed at the national level, solving advanced algorithmic and data structure challenges under strict time constraints.
 
 ### Let's Connect
-* **LinkedIn:** [linkedin.com/in/sergio-gomez-627914420](https://www.linkedin.com/in/sergio-gomez-627914420/)
+* **LinkedIn:** [linkedin.com/in/sergio-gomez](https://www.linkedin.com/in/sergio-gomez-627914420/)
 * **Email:** sergioferg.2003@gmail.com
